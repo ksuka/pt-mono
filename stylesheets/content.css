@@ -1,0 +1,31 @@
+h1{
+color: #D9C919;
+margin-top: 25px ; /* margin - внешний отступ */
+font-size: 96px; /* размер шрифта */
+line-height: 120%; /* высота шрифта */
+margin-left: 66px;
+}
+
+p{
+color: #63D919;
+margin-top: 25px ; 
+font-size: 20px; 
+line-height: 120%; 
+margin-left: 66px;
+}
+article{
+    width: 502px;
+}
+
+.data{
+    margin-top: 140px;
+}
+
+.computer{
+    height: 900px;
+    width: 798px;
+    display:flex;
+    margin-top: 12px;
+margin-left: 66px;
+
+}

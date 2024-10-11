@@ -1,0 +1,21 @@
+*{ box-sizing: border-box;}
+
+@font-face {
+font-family: "PTMono-Regular";
+src: url("../fonts/PT_Mono/PTMono-Regular.ttf") format("truetype");
+font-style: normal;
+font-weight: normal;
+}
+
+@font-face {
+    font-family: "PTMono-Bold";
+    src: url("../fonts/d9d6c078827eaf6c81856164313b7f96/fonts/ptmono-bold.ttf") format("truetype");
+    font-style: bold;
+    font-weight: bold;
+    }
+
+p{ font-family: 'PTMono-Regular'; }
+
+h1{ 
+    font-family: "PTMono-Bold";
+}
