@@ -8,12 +8,29 @@
     align-items: center;
 }
 
+.upper{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+    width: 1500px;
+    height: 10px;
+}
 
+.data{
+    margin-top: 80px;
+    display: flex;
+    justify-content: flex-start;
+}
 
+.ball{
+    height: 69px;
+width: 69px;
+margin-right: 60px;
+}
 
 h1{
 color: #D9C919;
-margin-top: 25px ; /* margin - внешний отступ */
+margin-top: 45px ; /* margin - внешний отступ */
 font-size: 96px; /* размер шрифта */
 line-height: 120%; /* высота шрифта */
 margin-left: 66px;
@@ -30,32 +47,35 @@ article{
     width: 502px;
 }
 
-.data{
-    margin-top: 140px;
-    display: flex;
-    justify-content: flex-start;
-}
- 
+
+
 .text{
     margin-top: 25px ;
     width: 502px;
 }
 
+.button{
+    display:flex;
+margin-left: 66px;
+gap: 20px;
+height: 75px;
+width: 332px;
+margin-top: 50px;
+text-align: center;
+border-color: #FF96C9;
+background-color: #131619;
+color:#FF96C9;
+border-radius: 22px;
+font-size: 60px;
+}
+
 .computer{
     height: 900px;
     width: 798px;
-    margin-top: 120px;
+    margin-top: 1px;
 margin-right: 135px;}
 
-.ball{
-    height: 69px;
-width: 69px;
-margin-top: 140px;
-margin-right: 60px;
-    display: flex;
-    justify-content: flex-end;
 
-}
 
 body{
     background:#131619;
@@ -66,4 +86,33 @@ body{
     overflow: hidden;
     display: flex;
     justify-content: space-between;
+}
+
+.page2{
+    width: 1440px;
+    height: 1000px;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+}
+
+.hand{
+    width: 50%;
+    height:50%;
+    margin-top: -400px;
+    object-position: 0px -80px;
+}
+
+h2{
+    color: #D9C919;
+    margin-top: 45px ; 
+    font-size: 90px; 
+    line-height: 120%; 
+    margin-left: 66px;
+    line-height: 85px;
+}
+
+.text2{
+    margin-right: 66px;
+    margin-top: 25px;
 }
