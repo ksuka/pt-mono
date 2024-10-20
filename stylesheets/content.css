@@ -90,7 +90,7 @@ body{
 
 .page2{
     width: 1440px;
-    height: 1000px;
+    height: 410px;
     overflow: hidden;
     display: flex;
     justify-content: space-between;
@@ -100,19 +100,61 @@ body{
     width: 50%;
     height:50%;
     margin-top: -400px;
-    object-position: 0px -80px;
+   
 }
 
 h2{
     color: #D9C919;
+    font-size: 90px;
+}
+.history{
     margin-top: 45px ; 
-    font-size: 90px; 
     line-height: 120%; 
     margin-left: 66px;
     line-height: 85px;
 }
-
 .text2{
     margin-right: 66px;
     margin-top: 25px;
+}
+
+.year{
+    margin-top: -80px;
+    margin-left: 66px;
+}
+
+.vector{
+    overflow: hidden;
+    margin-top: -550px;
+    display:flex;
+    justify-content: flex-end;
+    margin-left: 1400px;;
+}
+
+table{
+    margin-top: 64px;
+    border: 1px solid #63D919;
+    width: 1312px;
+    text-align:left;
+    font-size: 32px;
+    color: #63D919;
+    padding-top: 90px;
+}
+
+th {
+    border: 1px solid #63D919;
+
+ }
+
+ td {
+    border: 1px solid #63D919;
+ }
+
+.page3{
+    margin-top: -197px;
+    margin-left:66px;
+
+}
+.info{
+    color: #FF96C9;
 }
