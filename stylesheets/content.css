@@ -3,7 +3,7 @@
     flex-direction: row;
     justify-content:space-around;
     border-bottom: 1px solid #63D919;
-    width: 1530px;
+    width: 1440px;
     margin-top: 23px;
     align-items: center;
 }
@@ -124,37 +124,130 @@ h2{
 }
 
 .vector{
+    width: 40%;
+    height: 40%;
     overflow: hidden;
-    margin-top: -550px;
+    margin-top: -380px;
     display:flex;
     justify-content: flex-end;
-    margin-left: 1400px;;
+    margin-left: 1319px;
 }
 
 table{
-    margin-top: 64px;
+    margin-top: 38px;
     border: 1px solid #63D919;
     width: 1312px;
     text-align:left;
     font-size: 32px;
     color: #63D919;
     padding-top: 90px;
-}
+    border-collapse: collapse; /* Чтобы убрать двойные линии */
+    width: 1380px;}
 
-th {
-    border: 1px solid #63D919;
-
- }
-
- td {
-    border: 1px solid #63D919;
- }
+th, td {
+        border: 1px solid #63D919; /* Добавляет границы для ячеек */
+        padding: 20px; /* Внутренние отступы */
+        text-align: left; /* Выравнивание текста по левому краю */
+      }
 
 .page3{
-    margin-top: -197px;
+    margin-top: -500px;
     margin-left:66px;
 
 }
 .info{
     color: #FF96C9;
+    width:300%;
+}
+
+
+.page4{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+    width: 1500px;
+}
+
+.hack{
+    margin-right: 66px;
+    margin-top: 297px;
+    text-align: right;
+    font-size: 96px;
+    color: #63D919;
+}
+.pink{
+    margin-left: 1000px;
+    margin-top: -510px;
+}
+
+.paper{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 66px;
+    width: 300%;
+    margin-top: -1200px;
+}
+
+.papers{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 66px;
+    width: 300%;
+    margin-top: -560px;
+    opacity: 70%;
+    
+}
+
+.paper1{
+   font-size: 20px; 
+   color: black;
+   margin-left: 40px;
+   transform: rotate(-2,5deg)
+}
+
+.paper2{
+    font-size: 20px; 
+    color: black;
+    margin-left: 10px;
+ }
+ 
+ .box{
+    border: black;
+    background:#DECBA1;
+    text-align: left;
+    height: 545px;
+    width: 451px;
+    margin-top: -440px;
+    margin-left: 260px;
+ }
+
+ .sfer{
+    color:black;
+    font-size: 24px;
+ }
+ .i{
+    border-top: 1px solid #63D919;
+    border-bottom: 1px solid #63D919;
+    width: 780px;
+    height:212px;
+    margin-left: 66px;
+    margin-top: 200px;
+ }
+
+
+.il{
+    font-size: 300px;
+    margin-top: -68px;
+}
+
+.page5{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 66px;
+    width: 1308px;
+    height:212px;
+}
+
+.otlichie{
+    margin-top: 167px;
 }
