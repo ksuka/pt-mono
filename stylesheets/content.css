@@ -1,11 +1,15 @@
 .menu{
     display: flex;
-    flex-direction: row;
-    justify-content:space-around;
+    gap: 20px;
     border-bottom: 1px solid #63D919;
-    width: 1440px;
+    width: 1523px;
+    height: 30px;
     margin-top: 23px;
     align-items: center;
+}
+
+.menu p{
+    margin-bottom: 1.5%;
 }
 
 .upper{
@@ -30,7 +34,7 @@ margin-right: 60px;
 
 h1{
 color: #D9C919;
-margin-top: 45px ; /* margin - внешний отступ */
+margin-top: 15px ; /* margin - внешний отступ */
 font-size: 96px; /* размер шрифта */
 line-height: 120%; /* высота шрифта */
 margin-left: 66px;
@@ -57,11 +61,10 @@ article{
 .button{
     display:flex;
 margin-left: 66px;
-gap: 20px;
 height: 75px;
 width: 332px;
 margin-top: 50px;
-text-align: center;
+padding-left: 32px;
 border-color: #FF96C9;
 background-color: #131619;
 color:#FF96C9;
@@ -86,21 +89,20 @@ body{
     overflow: hidden;
     display: flex;
     justify-content: space-between;
+    margin-top: 30px;
 }
 
 .page2{
     width: 1440px;
     height: 410px;
-    overflow: hidden;
     display: flex;
     justify-content: space-between;
 }
 
 .hand{
-    width: 50%;
-    height:50%;
-    margin-top: -400px;
-   
+   height: 120%;
+    margin-top: -200px;
+    margin-left: 66px;
 }
 
 h2{
@@ -201,25 +203,30 @@ th, td {
 .paper1{
    font-size: 20px; 
    color: black;
-   margin-left: 40px;
-   transform: rotate(-2,5deg)
+   margin-left: 10px;
+   transform: rotate(2deg);
+   margin-top: 340px;
 }
 
 .paper2{
     font-size: 20px; 
     color: black;
-    margin-left: 10px;
+    margin-left: 5px;
  }
  
- .box{
-    border: black;
-    background:#DECBA1;
-    text-align: left;
-    height: 545px;
-    width: 451px;
-    margin-top: -440px;
-    margin-left: 260px;
+ .paper3{
+display: flex;
+justify-content: space-around;
+margin-left: 120px;
+margin-top: -1150px;
+
  }
+.chetki{
+    font-size: 24px;
+    color: black;
+    margin-top: -600px;
+    margin-left: 160px;
+}
 
  .sfer{
     color:black;
@@ -231,7 +238,7 @@ th, td {
     width: 780px;
     height:212px;
     margin-left: 66px;
-    margin-top: 200px;
+    margin-top: 500px;
  }
 
 
@@ -240,14 +247,45 @@ th, td {
     margin-top: -68px;
 }
 
+.o{
+    border-top: 1px solid #63D919;
+    border-bottom: 1px solid #63D919;
+    width: 780px;
+    height:212px;
+    margin-left: 66px;
+    margin-top: 200px;
+}
 .page5{
     display: flex;
     justify-content: space-around;
-    margin-left: 66px;
-    width: 1308px;
+    width: 1450px;
     height:212px;
 }
 
 .otlichie{
     margin-top: 167px;
+    margin-left: 66px;
+    font-size: 32px;
+}
+
+.ij{
+    margin-top: -129px;
+    font-size: 300px;
+}
+
+.j{
+    border-top: 1px solid #63D919;
+    border-bottom: 1px solid #63D919;
+    width: 780px;
+    height:150px;
+    margin-left: 66px;
+    margin-top: 400px;
+}
+
+
+.sticker{
+    display: flex;
+    margin-right: 1px;
+    margin-top: 50px;
+    width: 1440px;
 }
