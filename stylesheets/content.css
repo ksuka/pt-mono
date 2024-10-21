@@ -1,8 +1,20 @@
+body{
+    width: 100%;
+    overflow-x: hidden;
+}
+.main{
+    width: 1440px;
+    margin: 0px auto;
+}
+
+img{
+    width: 100%;
+}
 .menu{
     display: flex;
     gap: 20px;
     border-bottom: 1px solid #63D919;
-    width: 1523px;
+    width: 1440px;
     height: 30px;
     margin-top: 23px;
     align-items: center;
@@ -45,10 +57,6 @@ color: #63D919;
 font-size: 20px; 
 line-height: 120%; 
 margin-left: 66px;
-}
-
-article{
-    width: 502px;
 }
 
 
@@ -100,7 +108,8 @@ body{
 }
 
 .hand{
-   height: 120%;
+    width: 40%;
+    height: 120%;
     margin-top: -200px;
     margin-left: 66px;
 }
@@ -126,25 +135,29 @@ h2{
 }
 
 .vector{
-    width: 40%;
-    height: 40%;
     overflow: hidden;
-    margin-top: -380px;
-    display:flex;
-    justify-content: flex-end;
-    margin-left: 1319px;
+    width: 1440px;
+    margin-top: -390px;
+    /* display:flex;
+    justify-content: flex-end; */
+   
+}
+
+.vector img{
+    width: 20%;
+    margin-left: 1300px;
+    margin-top: 190px;
 }
 
 table{
     margin-top: 38px;
     border: 1px solid #63D919;
-    width: 1312px;
     text-align:left;
     font-size: 32px;
     color: #63D919;
     padding-top: 90px;
     border-collapse: collapse; /* Чтобы убрать двойные линии */
-    width: 1380px;}
+    width: 1315px;}
 
 th, td {
         border: 1px solid #63D919; /* Добавляет границы для ячеек */
@@ -153,7 +166,7 @@ th, td {
       }
 
 .page3{
-    margin-top: -500px;
+    margin-top: -250px;
     margin-left:66px;
 
 }
@@ -179,48 +192,17 @@ th, td {
 }
 .pink{
     margin-left: 1000px;
-    margin-top: -510px;
+    margin-top: -380px;
+    height: 500px;
 }
 
 .paper{
-    display: flex;
-    justify-content: space-around;
-    margin-right: 66px;
-    width: 300%;
-    margin-top: -1200px;
+    margin-left: 104px;
+    width: 1243px;
+    margin-top: -300px;
 }
 
-.papers{
-    display: flex;
-    justify-content: space-around;
-    margin-right: 66px;
-    width: 300%;
-    margin-top: -560px;
-    opacity: 70%;
-    
-}
 
-.paper1{
-   font-size: 20px; 
-   color: black;
-   margin-left: 10px;
-   transform: rotate(2deg);
-   margin-top: 340px;
-}
-
-.paper2{
-    font-size: 20px; 
-    color: black;
-    margin-left: 5px;
- }
- 
- .paper3{
-display: flex;
-justify-content: space-around;
-margin-left: 120px;
-margin-top: -1150px;
-
- }
 .chetki{
     font-size: 24px;
     color: black;
@@ -231,7 +213,25 @@ margin-top: -1150px;
  .sfer{
     color:black;
     font-size: 24px;
+    margin-top: -610px;
+    margin-left: 360px;
+    width: 350px;
  }
+
+ .otzyvy{
+    color:black;
+    font-size: 19px;
+    margin-top: -690px;
+    margin-right: 430px;
+    transform: rotate(2.1deg);
+    width: 335px;
+ }
+
+.papers{
+    display:flex;
+    justify-content: space-between;
+}
+
  .i{
     border-top: 1px solid #63D919;
     border-bottom: 1px solid #63D919;
@@ -282,10 +282,14 @@ margin-top: -1150px;
     margin-top: 400px;
 }
 
+.destroy{
+    margin-top: -100px;
+    color: black;
+}
 
 .sticker{
     display: flex;
     margin-right: 1px;
     margin-top: 50px;
-    width: 1440px;
+    width: 1540px;
 }
