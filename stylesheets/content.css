@@ -257,12 +257,13 @@ th, td {
     border-bottom: 1px solid #63D919;
     width: 780px;
     height:216px;
-    margin-left: 66px;
+    margin-right: 66px;
     margin-top: 200px;
 }
 .o0{
     font-size: 300px;
     margin-top: -65px;
+    margin-left: 120px;
 }
 .page5{
     display: flex;
@@ -272,7 +273,7 @@ th, td {
 }
 
 .otlichie{
-    margin-top: 167px;
+    margin-top: 140px;
     margin-left: 66px;
     font-size: 32px;
 }
@@ -372,7 +373,7 @@ th, td {
 }
 
 .woman{
-    margin-top: -800px;
+    margin-top: -207px;
     margin-left: 340px;
     width: 131px;
 }
@@ -383,7 +384,7 @@ th, td {
     justify-content: space-between;
     margin-left: 530px;
     margin-right: 50px;
-    margin-top: -310px;
+    margin-top: -290px;
 }
 .circle1{
     width:246px;
@@ -393,4 +394,267 @@ th, td {
 }
 .circle3{
     width:246px;
+}
+
+.visitka{
+    border: 1px solid black;
+    background:#DECBA1;
+    width: 512px;
+    height: 293px;
+    margin-top: 225px;
+    margin-left: -108px;
+    transform: rotate(-90deg);
+}
+
+.visitka1{
+    color: black;
+    margin-left: 420px;
+    margin-top: -20px;
+    font-size: 15px;
+}
+
+.sick{
+    font-size: 32px;
+    text-align: center;
+    color: black;
+    margin:auto;
+    margin-top: 90px;
+}
+
+.pochta{
+    font-size: 20px;
+    margin-left: 28px;
+    color: black;
+    margin-top: 72px;
+}
+
+.bloknot{
+    border: 1px solid black;
+    background:#847C6F;
+    width: 635px;
+    height: 602px;
+    margin-top: -430px;
+    margin-left: 350px;
+}
+
+.nazvani{
+    text-align: center;
+    font-size: 64px;
+    color: #DECBA1;
+    margin: auto;
+    margin-top: 240px;
+}
+
+.spiral{
+    width: 45%;
+margin-left: 360px;
+margin-top: -629px;
+
+}
+
+.badge{
+    width: 20%;
+    margin-top: -417px;
+    margin-left: 1030px;
+}
+
+.pt{
+    font-size: 58px;
+    text-align: center;
+    color: black;
+    width: 307px;
+    margin-top: -380px;
+    margin-left: -15px;
+}
+
+.dlya{
+    font-size: 37px;
+    text-align: center;
+    color: black;
+    width: 307px;
+    margin-top: -13px;
+    margin-left: -15px;
+}
+
+.consultt{
+    border: 1px solid black;
+    background:#847C6F;
+}
+.consult{
+    font-size: 17px;
+    color: black;
+    margin-left: 30px;
+    margin-top: -25px
+}
+
+.white{
+    width: 50%;
+    margin-left: 17px;
+}
+
+.tel{
+    font-size: 12px;
+    color: black;
+    margin-top: 212px;
+    margin-left: 17px;
+}
+
+.clip1{
+    width: 15%;
+    margin-top: -510px;
+margin-left: 1px;
+transform: rotate(26.36deg);
+}
+
+.clip2{
+    width: 15%;
+    margin-top: -223px;
+margin-left: 30px;
+transform: rotate(-14.31deg);
+}
+
+
+
+.chetkii{
+    color:#63D919;
+    margin-top: 750px;
+    height: 1000px;
+    margin-left: 66px;
+}
+
+.green2{
+    width: 20%;
+    margin-top: -870px
+}
+
+.square1{
+    width: 21%;
+    margin-top: -850px;
+    margin-left: 300px
+}
+
+.square1 p{
+    font-size: 423px;
+    margin-left: 30px;
+    margin-top: -400px
+}
+
+
+.square2{
+    width: 17%;
+    margin-top: -150px;
+    margin-left: 750px
+}
+
+.square2 p{
+    font-size: 354px;
+    margin-left: 30px;
+    margin-top: -400px
+}
+.square3{
+    width: 15%;
+    margin-top: -450px;
+    margin-left: 1130px
+}
+
+.square3 p{
+    font-size: 245px;
+    margin-left: 33px;
+    margin-top: -278px
+}
+
+.square4{
+    width: 21%;
+    margin-top: 600px;
+    margin-left: 980px
+}
+
+.square4 p{
+    font-size: 573px;
+    margin-left: -20px;
+    margin-top: -542px
+}
+
+.square5{
+    width: 15%;
+    margin-top: -130px;
+    margin-left: 530px
+}
+
+.square5 p{
+    font-size: 344px;
+    margin-left: -2px;
+    margin-top: -322px
+}
+
+.opacity1{
+    width: 45%;
+    margin-top: -220px;
+    margin-left: 10px
+}
+
+.opacity2{
+    width: 50%;
+    margin-top: -318px;
+    margin-left: -5px
+}
+
+.opacity3{
+    width: 55%;
+    margin-top: -280px;
+    margin-left: 48px
+}
+
+.opacity4{
+    width: 40%;
+    margin-top: -468px;
+    margin-left: 8px
+}
+
+.opacity5{
+    width: 55%;
+    margin-top: -168px;
+    margin-left: 112px
+}
+
+.symbol{
+    margin-top: 350px;
+    margin-left: 66px;
+}
+
+.clava{
+    width: 95%;
+    margin-top: 50px
+}
+
+.drob{
+    margin-top: -485px;
+    margin-left: 100px;
+    display: flex;
+    padding-left: 30px;
+
+}
+
+.drob p{
+    font-size: 48px;
+    width: 1px
+}
+
+.yellow2{
+    width: 15%;
+    margin-left: 1165px;
+    margin-top: -410px;
+}
+ 
+.ҩ{
+    border: 1px solid #000000;
+    background:#DECBA1;
+    height:359px;
+    width: 359px;
+    text-align: center;
+}
+
+.ҩ p{
+    font-size: 450px;
+    color: #000000;
 }
