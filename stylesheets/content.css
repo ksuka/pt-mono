@@ -628,22 +628,171 @@ transform: rotate(-14.31deg);
 }
 
 .drob{
-    margin-top: -485px;
-    margin-left: 100px;
+    margin-top: -483px;
+    margin-left: 120px;
     display: flex;
-    padding-left: 30px;
-
+    gap: 5px
 }
 
 .drob p{
-    font-size: 48px;
+    font-size: 46px;
     width: 1px
 }
 
+.register{
+    display: flex;
+    gap:4px;
+    margin-top: -55px;
+    margin-left: 436px;
+}
+
+.register p{
+    font-size: 46px;
+    width: 1px
+}
+
+.plus{
+    display: flex;
+    gap:4px;
+    margin-top: -59px;
+    margin-left: 755px;
+}
+
+.plus p{
+    font-size: 46px;
+    width: 1px
+}
+
+.ҩ2{
+    margin-top: -58px;
+    margin-left: -19px;
+    display: flex;
+    gap: 5px
+}
+
+.ҩ2 p{
+    font-size: 46px;
+    width: 1px
+}
+
+
+.question{
+    display: flex;
+    gap:4px;
+    margin-top: -51px;
+    margin-left: 1095px;
+}
+
+.question p{
+    font-size: 46px;
+    width: 1px
+}
+
+.numbers{
+    margin-top: 50px;
+    margin-left: -20px;
+    display: flex;
+    gap: 3.3px
+}
+
+.numbers p{
+    font-size: 46px;
+    width: 1px
+}
+
+.ligature{
+    margin-top: 10px;
+    margin-left: 87px;
+    display: flex;
+    gap: 3.2px
+}
+
+.ligature p{
+    font-size: 46px;
+    width: 1px
+}
+
+.¥{
+    margin-top: 5px
+}
+
+.§{
+    margin-top: 4px
+}
+
+.γ{
+    margin-top: -5px;
+}
+
+.Œ{
+    margin-top: 4.5px;
+}
+
+.£{
+    margin-top: 4.5px;
+}
+
+.‹{
+    margin-top: 14px;
+    margin-left: 100px;
+    display: flex;
+    gap: 4px
+}
+
+.‹ p{
+    font-size: 46px;
+    width: 1px
+}
+
+.sobaka{
+    margin-top: -8px;
+}
+
+.¶{
+    margin-top: -3px;
+}
+
+.¢{
+    margin-top: -4px;
+}
+
+.k{
+    margin-top: 11px;
+    margin-left: 137px;
+    display: flex;
+    gap: 3.8px
+}
+
+.k p{
+    font-size: 46px;
+    width: 1px 
+}
+
+.ų{
+    margin-top: -2px
+}
+
+.ţ{
+    margin-top: -1px
+}
+
+.ҧ2{
+    margin-top: -3px
+}
+
+.ӄ{
+    margin-top: -3px
+}
+
+.ҟ{
+    margin-top: 3px
+}
+
+
 .yellow2{
-    width: 15%;
+    width: 14%;
     margin-left: 1165px;
-    margin-top: -410px;
+    margin-top: -730px;
 }
  
 .ҩ{
@@ -652,9 +801,111 @@ transform: rotate(-14.31deg);
     height:359px;
     width: 359px;
     text-align: center;
+    margin-left: 66px;
+    margin-top: -230px;
 }
 
 .ҩ p{
     font-size: 450px;
-    color: #000000;
+    color: #131619;
+    margin: auto;
+    margin-top: -120px
+}
+
+.ҧ{
+    border: 1px solid #000000;
+    background:#DECBA1;
+    height:359px;
+    width: 359px;
+    text-align: center;
+    margin-left: 530px;
+    margin-top: -240px;
+}
+
+
+.ҧ p{
+    font-size: 450px;
+    color: #131619;
+    margin: auto;
+    margin-top: -170px
+}
+
+
+.ҿ{
+    border: 1px solid #000000;
+    background:#DECBA1;
+    height:359px;
+    width: 359px;
+    text-align: center;
+    margin-left: 1010px;
+    margin-top: -253px;
+}
+
+
+.ҿ p{
+    font-size: 450px;
+    color: #131619;
+    margin: auto;
+    margin-top: -150px
+}
+
+.ђ{
+    border: 1px solid #000000;
+    background:#DECBA1;
+    height:359px;
+    width: 359px;
+    text-align: center;
+    margin-left: 270px;
+    margin-top: -50px;
+}
+
+.ђ p{
+    font-size: 450px;
+    color: #131619;
+    margin: auto;
+    margin-top: -169px;
+}
+
+.Ł{
+    border: 1px solid #000000;
+    background:#DECBA1;
+    height:359px;
+    width: 359px;
+    text-align: center;
+    margin-left: 700px;
+    margin-top: -260px;
+}
+
+.Ł p{
+    font-size: 450px;
+    color: #131619;
+    margin: auto;
+    margin-top: -85px
+}
+
+.smooth{
+    margin-top: -881px;
+    margin-left: 935px;
+    font-size: 32px;
+}
+
+.clip3{
+    width: 3%;
+    margin-top: 100px;
+margin-left: 500px;
+transform: rotate(26.36deg);
+}
+
+.clip4{
+    width: 3%;
+    margin-top: 270px;
+margin-left: 170px;
+transform: rotate(-1.09deg);
+}
+
+.clip5{
+    width: 3%;
+    margin-top: -60px;
+margin-left: 1120px;
+transform: rotate(-25.97deg);
 }
