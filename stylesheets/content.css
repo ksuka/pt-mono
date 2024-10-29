@@ -909,3 +909,34 @@ transform: rotate(-1.09deg);
 margin-left: 1120px;
 transform: rotate(-25.97deg);
 }
+
+.languages{
+    border: 1px solid #63D919;
+    width: 1320px;
+    height: 2195px;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 310px
+}
+
+.stroke1{
+    border-bottom: 20px solid #63D919;
+    margin-top: 120px
+}
+
+.stroke2{
+    border-bottom: 20px solid #FF96C9;
+    margin-top: 0px
+}
+
+.available{
+    width: 60%;
+    margin-top:-137px;
+    margin-left: 20px
+}
+
+.window{
+    width: 20%;
+    margin-top: -80px;
+    margin-left: 1030px;
+}
