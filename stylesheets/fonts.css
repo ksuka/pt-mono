@@ -23,6 +23,10 @@ h2{
     font-family: "PTMono-Regular";
 }
 
+.arabic h1{
+    font-family: "PTMono-Bold";
+}
+
 table{
     font-family: "PTMono-Regular";
 }
