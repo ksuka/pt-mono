@@ -211,7 +211,7 @@ th, td {
  .sfer{
     color:black;
     font-size: 24px;
-    margin-top: -610px;
+    margin-top: -593px;
     margin-left: 360px;
     width: 390px;
  }
@@ -219,7 +219,7 @@ th, td {
  .otzyvy{
     color:black;
     font-size: 19px;
-    margin-top: -530px;
+    margin-top: -533px;
     margin-left: 750px;
     transform: rotate(2.1deg);
     width: 600px;
@@ -1125,8 +1125,9 @@ footer{
 }
 
 .surname{
-    margin-top: -290px;
-    margin-left: 100px
+    margin-top: -240px;
+    margin-left: 100px;
+    height: 30px
 }
 
 .surname h1{
@@ -1137,6 +1138,6 @@ footer{
 
 .code{
     width: 17%;
-    margin-top: 60px;
+    margin-top: 90px;
     margin-left: 678px 
 }
