@@ -369,13 +369,13 @@ th, td {
     margin-left: 28px;
     color: black;
     font-size: 40px;
-    margin-top: 40px;
+    margin-top: 33px;
 }
 
 .woman{
-    margin-top: -207px;
-    margin-left: 340px;
-    width: 131px;
+    margin-top: -210px;
+    margin-left: 343px;
+    width: 129px;
 }
 
 .circle{
@@ -859,11 +859,10 @@ transform: rotate(-14.31deg);
     margin-top: -50px;
 }
 
-.ђ p{
-    font-size: 450px;
-    color: #131619;
+.ђ img{
+    width: 57%;
     margin: auto;
-    margin-top: -169px;
+    margin-top: -50px;
 }
 
 .Ł{
@@ -883,8 +882,16 @@ transform: rotate(-14.31deg);
     margin-top: -85px
 }
 
+.edge{
+    border-bottom: 2px solid #DECBA1;
+    height:26px;
+    width: 37px;
+    margin-top: -533px;
+    margin-left: 380px
+}
+
 .smooth{
-    margin-top: -881px;
+    margin-top: -373px;
     margin-left: 935px;
     font-size: 32px;
 }
@@ -1052,4 +1059,86 @@ border-bottom: 1px solid #63D919;
     margin-top: 168px;
     margin-left: 570px;
     height: 142px
+}
+
+footer{
+    margin-left: -70px;
+    margin-top:100px;
+    width: 1438px
+}
+
+.footer1{
+    font-size: 32px;
+}
+
+.footer2{
+    margin-right: -69px;
+    margin-top: -960px
+}
+
+.footer2 p{
+    font-size: 32px;
+    text-align: right;
+}
+
+.piece1{
+    margin-top: -655px;
+    margin-left: 307px
+}
+
+.piece1 p{
+    font-size: 32px;
+}
+
+.piece2{
+    margin-top: 40px;
+    margin-left: 425px;
+}
+
+.piece2 p{
+    font-size: 32px;
+}
+
+.piece3{
+    margin-top: -115px;
+    margin-left: 1060px;
+}
+
+.piece3 p{
+    font-size: 32px;
+}
+
+.piece4{
+    margin-top: 37px;
+    margin-left: 924px;
+}
+
+.piece4 p{
+    font-size: 32px;
+}
+
+.piece5{
+    margin-top: 80px;
+    margin-left: 900px;
+}
+
+.piece5 p{
+    font-size: 32px;
+}
+
+.surname{
+    margin-top: -290px;
+    margin-left: 100px
+}
+
+.surname h1{
+    text-align: center;
+    font-size: 41px;
+    color:#63D919;
+}
+
+.code{
+    width: 17%;
+    margin-top: 60px;
+    margin-left: 678px 
 }
